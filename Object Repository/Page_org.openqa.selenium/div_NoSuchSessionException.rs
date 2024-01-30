@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NoSuchSessionException</name>
+   <tag></tag>
+   <elementGuidId>f4e433dc-852a-4167-8312-e8aabf61fc2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='class-summary.tabpanel']/div/div[93]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>71b49a96-8764-44c7-bafe-c60b90434f42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-first odd-row-color class-summary class-summary-tab5</value>
+      <webElementGuid>48c14add-6ec2-4efe-8e4d-68d7a6dccb4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NoSuchSessionException</value>
+      <webElementGuid>ad6390c9-d950-4b3c-9bbc-606225f08e29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;class-summary.tabpanel&quot;)/div[@class=&quot;summary-table two-column-summary&quot;]/div[@class=&quot;col-first odd-row-color class-summary class-summary-tab5&quot;]</value>
+      <webElementGuid>f3a7aa4e-0512-4a1a-b5d6-5e6c08f141ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='class-summary.tabpanel']/div/div[93]</value>
+      <webElementGuid>8856d5b9-3911-4444-bc57-7d41b85b89c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[93]</value>
+      <webElementGuid>7ee515e8-4861-4695-b79a-6d9f91aa4377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NoSuchSessionException' or . = 'NoSuchSessionException')]</value>
+      <webElementGuid>b57d430d-e8e3-4111-84fd-a0fedede69a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

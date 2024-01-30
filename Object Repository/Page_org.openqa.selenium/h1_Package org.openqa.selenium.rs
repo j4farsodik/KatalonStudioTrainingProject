@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Package org.openqa.selenium</name>
+   <tag></tag>
+   <elementGuidId>716195ef-027c-41b9-a8e2-452386b4af4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>2e3b96d9-3010-4295-9935-4a741c224d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Package org.openqa.selenium</value>
+      <webElementGuid>95ddb0e0-df08-45d8-bfca-1c3c1d660658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>477e6365-f5b3-4a0b-9c32-668f1f0876b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Package org.openqa.selenium</value>
+      <webElementGuid>1b028ab4-73eb-4e2e-ad89-74f6224ea4a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;package-declaration-page&quot;]/div[@class=&quot;flex-box&quot;]/div[@class=&quot;flex-content&quot;]/main[1]/div[@class=&quot;header&quot;]/h1[@class=&quot;title&quot;]</value>
+      <webElementGuid>1d25c6d8-21cd-4ed7-bc64-806f0a27e39d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>017c71c6-7e86-4ce3-ab6e-ef797b1e20d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@title = 'Package org.openqa.selenium' and (text() = 'Package org.openqa.selenium' or . = 'Package org.openqa.selenium')]</value>
+      <webElementGuid>93e662f8-f50b-49ec-80d5-5a3f3331a378</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

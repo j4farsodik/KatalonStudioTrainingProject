@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Describes a series of keyvalue pairs th_7b5e6a</name>
+   <tag></tag>
+   <elementGuidId>7e0b48e0-681d-4870-8617-2b9a187a6697</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-last.even-row-color.class-summary.class-summary-tab1 > div.block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='class-summary.tabpanel']/div/div[36]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c853718d-7c20-4bc9-b75d-63a5c78d2806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>58251857-7789-421a-b213-4c3f7867c67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Describes a series of key/value pairs that encapsulate aspects of a browser.</value>
+      <webElementGuid>0c864931-17e7-470e-90f0-460de279ae9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;class-summary.tabpanel&quot;)/div[@class=&quot;summary-table two-column-summary&quot;]/div[@class=&quot;col-last even-row-color class-summary class-summary-tab1&quot;]/div[@class=&quot;block&quot;]</value>
+      <webElementGuid>698075fd-3c5f-494c-aefc-8d9ed30a10c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='class-summary.tabpanel']/div/div[36]/div</value>
+      <webElementGuid>9fcb17b2-1c95-4d0e-b1d9-3a07e4e5d3f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[36]/div</value>
+      <webElementGuid>17f90564-e272-42be-8ff7-a8dca0d1e04e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Describes a series of key/value pairs that encapsulate aspects of a browser.' or . = 'Describes a series of key/value pairs that encapsulate aspects of a browser.')]</value>
+      <webElementGuid>205182aa-66fb-4722-bd1a-3250dfa41efe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

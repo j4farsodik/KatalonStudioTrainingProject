@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_org.openqa.selenium.chromium.ChromiumDr_4d5d62</name>
+   <tag></tag>
+   <elementGuidId>296fd52a-de65-4cb1-a006-0b0314dc8a9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='method']/div[2]/div[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>473f7f4b-1e76-4367-9d7d-ebdfebee88ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-summary-item-name even-row-color</value>
+      <webElementGuid>736a62e6-dd63-4aaf-a080-7071830c0d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>org.openqa.selenium.chromium.ChromiumDriver.getSessionStorage()</value>
+      <webElementGuid>961b5164-d6da-49d1-a37b-3fdebe99f8dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;method&quot;)/div[@class=&quot;summary-table two-column-summary&quot;]/div[@class=&quot;col-summary-item-name even-row-color&quot;]</value>
+      <webElementGuid>750f18fc-6d64-4f18-9a7f-e793f4db2cc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='method']/div[2]/div[7]</value>
+      <webElementGuid>c66ddaf9-119e-435a-be1f-939df6020cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[7]/li/div/div[2]/div[7]</value>
+      <webElementGuid>05b644f0-859f-4dbd-917a-f28742f1426e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'org.openqa.selenium.chromium.ChromiumDriver.getSessionStorage()' or . = 'org.openqa.selenium.chromium.ChromiumDriver.getSessionStorage()')]</value>
+      <webElementGuid>bf6d0141-de27-4ffc-9f53-e26d760636a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
